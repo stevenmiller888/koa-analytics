@@ -1,0 +1,19 @@
+{
+  "name": "koa-analytics",
+  "version": "0.0.1",
+  "repository": "stevenmiller888/koa-analytics.git",
+  "description": "Easily embed analytics into your Koa application.",
+  "keywords": [],
+  "main": "lib/index.js",
+  "dependencies": {
+    "combined-stream": "0.0.7",
+    "segmentio-snippet": "^3.0.1"
+  },
+  "devDependencies": {
+    "koa": "^0.18.0",
+    "koa-static": "^1.4.9",
+    "mocha": "1.x",
+    "supertest": "^0.15.0"
+  },
+  "license": "MIT"
+}
